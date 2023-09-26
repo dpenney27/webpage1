@@ -1,0 +1,54 @@
+
+
+h1 {
+  color: rgba(108, 250, 170, 0.836);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+}
+
+h2 {
+  color: rgba(108, 250, 170, 0.836);
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+  color: white;
+  text-align: left;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-color: #808080;
+  border:10px solid #808080;
+  margin: 10px;
+
+}
+
+body {
+  background-color: rgba(60, 60, 60);
+}
+
+.right {
+  float: right;
+  margin-right: 25px;
+}
+
+.left{
+  float: left;
+  margin-left: 25px;
+}
+
+.aboutMe{
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+ul{
+  color: white;
+  background-color: #808080;
+  border: 10px solid #808080;
+  margin-right: 350px;
+}
+
+a {
+  color: rgb(255, 0, 128);
+  
+}
